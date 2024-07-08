@@ -1,0 +1,37 @@
+
+Assignment 1: Basic Method Creation
+Task: Write a method `greet` that takes no parameters and prints "Hello, World!" to the console.
+
+Instructions:
+- Create a class named `Greeting`.
+- In the `Greeting` class, write a static method named `greet`.
+- The `greet` method should print "Hello, World!".
+- Call the `greet` method from the `main` method.
+
+Assignment 2: Method with Parameters
+Task: Write a method `sum` that takes two integer parameters and returns their sum.
+
+Instructions:
+- Create a class named `Calculator`.
+- In the `Calculator` class, write a static method named `sum`.
+- The `sum` method should accept two integers as parameters and return their sum.
+- Call the `sum` method from the `main` method and print the result.
+
+Assignment 3: Method with Return Type
+Task: Write a method `square` that takes an integer as a parameter and returns its square.
+
+Instructions:
+- Create a class named `MathOperations`.
+- In the `MathOperations` class, write a static method named `square`.
+- The `square` method should accept an integer as a parameter and return its square.
+- Call the `square` method from the `main` method and print the result.
+
+Assignment 4: Method Overloading
+Task: Write overloaded methods `multiply` that can multiply two or three integers.
+
+Instructions:
+- Create a class named `Multiplication`.
+- In the `Multiplication` class, write two overloaded methods named `multiply`.
+  - One `multiply` method should accept two integers and return their product.
+  - The other `multiply` method should accept three integers and return their product.
+- Call both `multiply` methods from the `main` method and print the results.
