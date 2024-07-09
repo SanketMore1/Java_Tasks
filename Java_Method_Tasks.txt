@@ -1,0 +1,75 @@
+
+1. Student Information System:
+   - Method: printStudentProfile
+   - Parameters:
+     - String name
+     - int age
+     - String major
+     - double gpa
+   - Description: Create a method that accepts student details and prints a formatted student profile.
+
+2. Cafeteria Bill Calculator:
+   - Method: calculateCafeteriaBill
+   - Parameters:
+     - double[] itemPrices
+   - Description: Write a method to calculate the total cost of items purchased in a cafeteria, including a 10% student discount.
+
+3. Library Fine Calculator:
+   - Method: calculateLibraryFine
+   - Parameters:
+     - int overdueDays
+     - double dailyFineRate
+   - Description: Implement a method that calculates the fine for overdue library books.
+
+4. GPA Calculator:
+   - Method: calculateGPA
+   - Parameters:
+     - double[] grades
+     - int[] credits
+   - Description: Create a method that takes an array of course grades and their corresponding credits, then calculates and returns the GPA.
+
+5. Fitness Tracker:
+   - Method: printDailyFitnessReport
+   - Parameters:
+     - int steps
+     - double distance
+     - int activeMinutes
+   - Description: Write a method that accepts the number of steps walked, distance covered (in miles), and active minutes, then prints a daily fitness report.
+
+6. Event Reminder:
+   - Method: printEventReminder
+   - Parameters:
+     - String eventName
+     - String date
+     - String time
+     - String location
+   - Description: Implement a method that takes event details and prints a reminder message.
+
+7. Split Bill:
+   - Method: calculateSplitBill
+   - Parameters:
+     - double totalBill
+     - int numberOfPeople
+   - Description: Create a method to split a restaurant bill among a group of friends, including a 15% tip.
+
+8. E-commerce Cart:
+   - Method: printReceipt
+   - Parameters:
+     - double[] itemPrices
+   - Description: Write a method that accepts the prices of items in a shopping cart, calculates the subtotal, tax (7%), and total amount, then prints the receipt.
+
+9. Study Session Scheduler:
+   - Method: printStudySchedule
+   - Parameters:
+     - String[] subjects
+     - int[] hours
+   - Description: Implement a method that accepts a list of subjects and the number of hours to study each subject, then prints a weekly study schedule.
+
+10. Dormitory Roommate Matching:
+    - Method: matchRoommates
+    - Parameters:
+      - String[] students
+      - String[] sleepingHabits
+      - String[] cleanlinessLevels
+      - String[] interests
+    - Description: Create a method that takes student preferences and matches students with compatible roommates. The method should print the match results.
