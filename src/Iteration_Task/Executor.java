@@ -14,6 +14,7 @@ public class Executor {
 		// TODO Auto-generated method stub
 
 		Executor exe = new Executor();
+		
 		Residents r1 = new Residents(1, "Maharshi Karve", 75, 1234);
 
 		Residents r2 = new Residents(2, "Ram", 24, 1234);

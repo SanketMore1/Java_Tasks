@@ -42,7 +42,7 @@ public class Employee {
 		return "Employee [id=" + id + ", name=" + name + ", department=" + department + ", salary=" + salary + "]";
 	}
 	
-	Employee()  
+
 	
 	
 }
